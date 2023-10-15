@@ -10,7 +10,6 @@ class AppTextStyles {
       ],
       color: Colors.teal);
 
-
   static final TextStyle titleHeader = GoogleFonts.lato(
       fontWeight: FontWeight.w600,
       fontSize: 25,
