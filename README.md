@@ -44,7 +44,7 @@ Food Delivery App.
 
 - API url: https://snapkaro.com/eazyrooms_staging/api/user_registeration
 
-/* Sample Payload:
+/*Sample Payload:
 {
 "user_firstname":"mani",
 "user_email":" mail@gmail.com ",
@@ -53,7 +53,7 @@ Food Delivery App.
 "user_lastname":"ni",  
 "user_city":"Hyderabad",
 "user_zipcode": "500072"
-} */
+}*/
 
 ## Collect user_firstname, user_email, user_password, user_phone from the form (Like from UI) and for user_lastname, user_city, user_zipcode send some static data.
 
@@ -63,7 +63,7 @@ Food Delivery App.
 
 - API url:  https://snapkaro.com/eazyrooms_staging/api/userlogin
 
-/* Sample Payload:
+/*Sample Payload:
 {
 "user_email":"mail@gmail.com",
 "user_password":"123456"
